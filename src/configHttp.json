@@ -1,5 +1,3 @@
-{
-	"port": 8081,
-	"bodyLimit": "100kb",
-	"corsHeaders": ["Link"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f64ce2126ac9d5f4a11093ba267c23fab16aa76a901b8f325b49ef1be718b04
+size 67
